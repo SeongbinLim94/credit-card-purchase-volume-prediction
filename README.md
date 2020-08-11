@@ -7,7 +7,7 @@ To predict the information, demographic and behavioral information in dataset is
   
 ## Contained Files  
 1. **data**  
-In `data` folder, `201901-202003.csv` file is stored. In the dataset, the following columns are contained:  
+In `data` folder, `201901-202003.zip` file is stored. If you decompress the file and look into the dataset, the following columns are contained:  
   - REG_YYMM: Year and month of a credit card usage  
   - CARD_SIDO_NM: The region of a credit card usage (The address of the store)  
   - CARD_CCG_NM: The specific region of a credit card usage  
@@ -21,10 +21,8 @@ In `data` folder, `201901-202003.csv` file is stored. In the dataset, the follow
   - CNT: The number of credit card usages  
   - AMT: Purchase volume of a credit card usage (Korean currency Won is used for each unit)  
 2. **bc-credit-card.ipynb**  
-`bc-credit-card.ipynb` file contains code that analyze the above features and predict the purchase volume across each regions, and industry domains in Korean domestic market.  
-3. **model.pkl**
-`model.pkl` file contains trained model with the splitted training set of `201901-202003` dataset. The file is created for immediate usage of trained model.  
-  
+`bc-credit-card.ipynb` file contains code that analyze the above features and predict the purchase volume across each regions, and industry domains in Korean domestic market.
+    
   
 ## Libraries Used & Version Control  
   - python 3.8.5  
