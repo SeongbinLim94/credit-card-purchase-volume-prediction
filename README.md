@@ -1,4 +1,7 @@
-# credit-card-purchase-volume-prediction
+# credit-card-purchase-volume-prediction  
+The result of this project is deployed as a blog post. The link is written below.  
+https://medium.com/@lim.andrew1/trying-to-open-business-in-korea-here-is-the-market-research-ee03d616970b
+
 ## Project Description  
 Most of countries are moving toward cashless society. With the development of paying technology, consumers can easily pay for the products without holding cash.  
 By analyzing credit card usage data, provided by BC Card which is a credit card company in Korea, purchase volume across each regions, and industry sectors in Korea can be predicted.  
