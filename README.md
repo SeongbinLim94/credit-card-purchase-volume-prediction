@@ -3,9 +3,9 @@ The result of this project is deployed as a blog post. The link is written below
 https://medium.com/@lim.andrew1/trying-to-open-business-in-korea-here-is-the-market-research-ee03d616970b
 
 ## Project Description  
-Most of countries are moving toward cashless society. With the development of paying technology, consumers can easily pay for the products without holding cash.  
+Most of countries are moving toward cashless society. With the development of paying technology, consumers can easily pay for the products without cash.  
 By analyzing credit card usage data, provided by BC Card which is a credit card company in Korea, purchase volume across each regions, and industry sectors in Korea can be predicted.  
-To predict the information, demographic and behavioral information in dataset is also analyzed, being the basis of Random Forest Regression model.  
+To predict purchase volume accurately, features are analyzed with visualization and various ML models are tested.
   
   
 ## Contained Files  
